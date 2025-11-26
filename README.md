@@ -1,2 +1,2 @@
-# my-first-store
+# LuxeFemme
 Online store for women’s clothing and accessories
